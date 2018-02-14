@@ -318,7 +318,7 @@ function loadMemoireList() {
 			$memoireList.append(`
 				<li>
 					<div>
-						<i>√</i>
+						<i>&#10004;</i>
 					</div>
 					<p>${objElement.content}</p>
 					<p>${objElement.saveDate}</p>
@@ -412,7 +412,7 @@ function locationDataCtrl() {
 		$("#memoireList").append(`
 						<li>
 							<div>
-								<i>√</i>
+								<i>&#10004;</i>
 							</div>
 							<p>${localData[localData_leng - 1].content}</p>
 							<p>${localData[localData_leng - 1].saveDate}</p>
