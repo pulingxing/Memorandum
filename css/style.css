@@ -149,10 +149,12 @@ main-page > main {
     left: 0;
     top: 15px;
     cursor: pointer;
+    font-size: 0px;
 }
 #memoireList li i.ckd {
     background-color: #e9b114;
     border-color: #e9b114;
+    font-size: 15px;
 }
 
 /*********** 主页中的页脚设置 *************/
